@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying computer science and I’m a freshman at Bilkent University 
+- 🔭 I’m currently studying computer science and I’m a freshman at Bilkent University.
